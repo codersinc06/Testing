@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "848378650093",
+    "firebase_url": "https://hkm-progress-button-master.firebaseio.com",
+    "project_id": "hkm-progress-button-master",
+    "storage_bucket": "hkm-progress-button-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848378650093:android:4affb0634f6e734e",
+        "android_client_info": {
+          "package_name": "com.hkm.ui.processbuttons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848378650093-20k7fe90ejjhnjh9blm6nq709b9n2mjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hkm.ui.processbuttons",
+            "certificate_hash": "7b4cce0ad13141e04c0674802a0d1b277ce703c7"
+          }
+        },
+        {
+          "client_id": "848378650093-2ksl005ggrfdjk1d2vk59e9dohehjsj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hkm.ui.processbuttons",
+            "certificate_hash": "6e84af2bc3a03c90941e43d6f12f3f74971ef253"
+          }
+        },
+        {
+          "client_id": "848378650093-i1qpl9nrntitedrfv4ufsd6ke58cbaeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLK9bD3-izBUP7Ezi8YVoYd132UL6a_8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848378650093-i1qpl9nrntitedrfv4ufsd6ke58cbaeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

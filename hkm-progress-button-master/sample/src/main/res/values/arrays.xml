@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Domesttic Violence</item>
+        <item>Robbery</item>
+        <item>Car Jacking</item>
+        <item>Murder</item>
+    </string-array>
+
+    <array name="place_avator">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+    </array>
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+    </array>
+</resources>

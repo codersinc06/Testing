@@ -1,0 +1,40 @@
+<resources>
+    <declare-styleable name="ProcessButton">
+        <attr name="pb_textProgress" format="string" />
+        <attr name="pb_textComplete" format="string" />
+        <attr name="pb_textError" format="string" />
+        <attr name="pb_colorProgress" format="color" />
+        <attr name="pb_colorComplete" format="color" />
+        <attr name="pb_colorError" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="FlatButton">
+        <attr name="pb_colorPressed" format="color" />
+        <attr name="pb_colorNormal" format="color" />
+        <attr name="pb_colorDisabled" format="color" />
+        <attr name="pb_colorBorder" format="color" />
+        <attr name="pb_borderWidth" format="dimension" />
+        <attr name="pb_cornerRadius" format="dimension" />
+        <attr name="pb_presentation" format="enum">
+            <enum name="pad_button" value="1" />
+            <enum name="flat_button" value="2" />
+        </attr>
+        <attr name="pb_fontName" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ArrowButton">
+        <attr name="pb_colorArrow" format="color" />
+        <attr name="pb_arrowRes" format="reference" />
+        <attr name="pb_verticalPadding" format="dimension" />
+        <attr name="pb_topLineThickness" format="dimension" />
+        <attr name="pb_bottomLineThickness" format="dimension" />
+        <attr name="pb_IconSize" format="dimension" />
+        <attr name="pb_IconRes" format="reference" />
+        <attr name="pb_IconPadding" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="AnimationButton">
+        <attr name="pb_start_op" format="enum">
+            <enum name="PLAY" value="0" />
+            <enum name="STOP" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

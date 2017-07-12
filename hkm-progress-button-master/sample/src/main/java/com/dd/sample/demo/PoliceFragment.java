@@ -45,8 +45,9 @@ public class PoliceFragment extends Fragment {
      */
     public static class ContentAdapter extends RecyclerView.Adapter<ViewHolder> {
         // Set numbers of List in RecyclerView.
-        private static final int LENGTH = 18;
+
         private final String[] mPlaces;
+        private static final int LENGTH = 4 ;
         private final Drawable[] mPlacePictures;
         public ContentAdapter(Context context) {
             Resources resources = context.getResources();

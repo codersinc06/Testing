@@ -31,15 +31,15 @@ public class splash extends AwesomeSplash {
 
         //Customize Logo
         configSplash.setLogoSplash(R.drawable.ic_splash); //or any other drawable
-        configSplash.setAnimLogoSplashDuration(2000); //int ms
+        configSplash.setAnimLogoSplashDuration(1000); //int ms
         configSplash.setAnimLogoSplashTechnique(Techniques.FadeIn); //choose one form Techniques (ref: https://github.com/daimajia/AndroidViewAnimations)
 
 
         //Customize Title
-        configSplash.setTitleSplash("FACER");
+        configSplash.setTitleSplash("F.A.C.E.R");
         configSplash.setTitleTextColor(R.color.grey_0);
         configSplash.setTitleTextSize(30f); //float value
-        configSplash.setAnimTitleDuration(1000);
+        configSplash.setAnimTitleDuration(800);
         configSplash.setAnimTitleTechnique(Techniques.SlideInUp);
         configSplash.setTitleFont("fonts/Pacifico.ttf");
     }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="places">
-        <item>Domesttic Violence</item>
+        <item>Domestic Violence</item>
         <item>Robbery</item>
         <item>Car Jacking</item>
         <item>Murder</item>
